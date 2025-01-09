@@ -1,2 +1,2 @@
 # mtm6201_week1
-The assignment od week 1 
+The assignment of week 1 
